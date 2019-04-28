@@ -5,6 +5,6 @@ Draw a class diagram\
 To execute this Follow the instructions(given in the form of comments at desired places in the code files)\
 A special note of database:\
 Screen Shots of how database looks is given ... user is expected to create a local MySQL database and according to the Screenshots\
-The Screenshots have all details regarding what are the Tables and kinds of columns used in this Project\
+The Screenshots have all details regarding what are the Tables and kinds of columns used in this Project
 
 
